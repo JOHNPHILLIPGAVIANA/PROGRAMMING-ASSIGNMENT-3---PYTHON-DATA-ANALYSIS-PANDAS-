@@ -96,4 +96,4 @@ display(selected_cars)
 print(selected_cars.shape)
 ```
 ### 3. Display and Output Verification (`display()`, `.shape`)
-**Purpose:** The presents the resulting subset and verifies its dimensions. The `display()` function outputs the formatted table, while `selected_cars.shape` prints the tuple `(3, 5)`, confirming that the filtered DataFrame strictly contains three rows and five columns.
+**Purpose:** This presents the resulting subset and verifies its dimensions. The `display()` function outputs the formatted table, while `selected_cars.shape` prints the tuple `(3, 5)`, confirming that the filtered DataFrame strictly contains three rows and five columns.
